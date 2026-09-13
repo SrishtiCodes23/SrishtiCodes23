@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Srishti 👋
 
-<!--
-**SrishtiCodes23/SrishtiCodes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE student, currently exploring programming and web development.
 
-Here are some ideas to get you started:
+I mostly code in C++ and I'm working on getting better at DSA through regular problem solving. Alongside that, I'm learning web development and building small projects as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Practicing DSA in C++
+- Learning HTML, CSS and JavaScript
+- Getting comfortable with Git & GitHub
+- Building projects to apply what I learn
+
+### Tech I use
+`C++` `C` `HTML` `CSS` `JavaScript` `Git` `GitHub` `VS Code`
+
+### Projects
+Still building this section :)  
+I'll be adding my projects here as I make them.
+
+### Connect with me
